@@ -1,2 +1,3 @@
 maven-examples
 ==============
+Testing SonarQube
